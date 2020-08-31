@@ -1,0 +1,3 @@
+graft testify2
+global-exclude *.py[cod] __pycache__ *.so *.ipynb
+recursive-exclude  testify2/jupy *
